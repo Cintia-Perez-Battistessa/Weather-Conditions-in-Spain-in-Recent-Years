@@ -28,7 +28,7 @@ Just so you know, this analysis does not focus on climate change. If you want to
 <a name="item2"></a>
 ## 2. Project Page
 
-If you'd like to check the weather conditions in Spain, you can visit the project page created in Streamlit. Note that the page may take a moment to load.
+If you'd like to check the weather conditions in Spain, you can visit the project page created in Streamlit (https://weather-conditions-in-spain.streamlit.app/). Note that the page may take a moment to load. 
 
 <a name="item3"></a>
 ## 3. License 
